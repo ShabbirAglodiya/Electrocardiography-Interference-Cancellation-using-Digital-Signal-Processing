@@ -1,1 +1,4 @@
 # Electrocardiography-Interference-Cancellation-using-Digital-Signal-Processing
+
+**Description:**
+Our project focuses on mitigating common sources of noise in electrocardiography (ECG) signals, including baseline wander, powerline interference, EMG noise, and electrode motion artifacts, using advanced digital signal processing techniques. Leveraging MATLAB, we designed and implemented a suite of filters, including IIR, FIR, notch, and high-pass filters, tailored specifically to address each type of interference. Through thorough testing on a comprehensive dataset, we evaluated the effectiveness of our filters in suppressing noise while preserving the integrity of the ECG waveform. By seamlessly integrating signal processing methodologies with domain-specific knowledge, our project contributes to enhancing the reliability and accuracy of ECG signal analysis, thereby advancing the field of biomedical engineering and clinical diagnostics.
